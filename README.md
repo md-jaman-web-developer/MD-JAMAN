@@ -1,6 +1,6 @@
 ![logo](https://github.com/md-jaman-web-developer/MD-JAMAN/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.jpg)
 
-<img align="right" alt"coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" title="mongo data base">
+<img align="right" alt"coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif" title="mongo data base"/>
 - 📫 How to reach me **mdjaman202021@gmailcom**
 <h1 align="center">Hi 👋, I'm Md Badruzzaman</h1>
 <h3 align="center">A passionate  MERN developer from Bangladesh</h3>
